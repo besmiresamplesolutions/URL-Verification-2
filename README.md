@@ -6,6 +6,7 @@ This repository contains 2 main folders: [Splitted-file-for-AWS] and [URL-Verifi
 
 
 
+
 1. [Splitted-file-for-AWS] contains a script that automates to split the input file into different files for each 80 lines
 
 2. [URL-Verification] contains two subfolders:
@@ -16,8 +17,10 @@ This repository contains 2 main folders: [Splitted-file-for-AWS] and [URL-Verifi
 
 
 
+
 Imported modules/libraries are:
 codecs, requests, socket, urllib, pandas, sys
+
 
 
 
