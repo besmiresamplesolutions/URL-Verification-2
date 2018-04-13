@@ -4,7 +4,6 @@ This repository contains 2 main folders: [Splitted-file-for-AWS] and [URL-Verifi
 
 1. [Splitted-file-for-AWS] contains a script that automates to split the input file into different files for each 80 lines
 2. [URL-Verification] contains two subfolders:
-
   2.1 URL-Verification (1) is the 1st version of processing the file with URLs in order to verify them
   2.2 URL-Verification (2) is the 2nd version which has been updated to get the input file and output file as arguments
 
