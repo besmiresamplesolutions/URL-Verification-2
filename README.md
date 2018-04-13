@@ -8,7 +8,7 @@ This repository contains 2 main folders: [Splitted-file-for-AWS] and [URL-Verifi
   2.2 URL-Verification (2) is the 2nd version which has been updated to get the input file and output file as arguments
 
 Imported modules/libraries are:
-codecs, requests, socket, urllib, json, pandas, sys
+codecs, requests, socket, urllib, pandas, sys
 
 How do we verify URLS:
 
